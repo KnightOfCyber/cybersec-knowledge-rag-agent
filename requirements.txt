@@ -1,0 +1,5 @@
+streamlit>=1.32
+sentence-transformers>=2.6
+PyYAML>=6.0
+numpy>=1.26
+pytest>=8.0
